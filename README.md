@@ -1,0 +1,2 @@
+# parcial_bioinformatica
+parcial_primer_segundo_corte
